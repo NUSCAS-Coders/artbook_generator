@@ -11,12 +11,10 @@ It aims to programmatically generate an artbook off the submission of various ar
     1. [GSpread](https://docs.gspread.org/en/latest/)
     1. [PyDrive](https://pythonhosted.org/PyDrive/)
 1. Secret files :-)
+1. Photoshop :\
 
 ## Installation
 1. Clone this repository.
 2. Create a python virtual environment and activate it.
 3. Install dependencies via `pip install -r requirements.txt`
 4. Run the code via `python app.py`
-
-## Note
-1. 
